@@ -1,4 +1,5 @@
-![acts social banner](https://github.com/patashale/act/assets/68323012/40573371-4536-4dc2-809b-724c0ea7b1fe)
+![acts social banner](https://github.com/patashale/act/assets/68323012/b1afabcc-089b-4832-9198-a9e210819eb5)
+
 
 
 ### 🎯 Objective
@@ -41,5 +42,5 @@ We will improve the guidelines based on frequent questions and concerns, strive 
 
 Act logo in White | Act logo in Blue | Act logo in Black
 :-------------------------:|:-------------------------:|:-------------------------:
-![Act logo in English](https://github.com/patashale/act/assets/68323012/daea3917-673e-4dea-af33-23a781aea5e1) | ![Act logo in Blue](https://github.com/patashale/act/assets/68323012/2011bf6d-475a-49ce-9893-9d9e0b9dacb1) | ![Act logo in Black](https://github.com/patashale/act/assets/68323012/9f60765f-16d4-46ef-99cd-e016ad2a56c0)
+![Act logo in English](https://github.com/patashale/act/assets/68323012/5e31f80a-681e-4010-82f0-e41518a860a0) | ![Act logo in Blue](https://github.com/patashale/act/assets/68323012/67d41f87-6720-44e7-b6b8-3deaab2840f8) | ![Act logo in Black](https://github.com/patashale/act/assets/68323012/9073de00-1c87-43b5-a882-83869e79a32b)
 
